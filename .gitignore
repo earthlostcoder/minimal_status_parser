@@ -39,3 +39,6 @@ tags
 
 # SQLite DB
 *.db
+
+# VIM Swaps
+*.swp
