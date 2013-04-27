@@ -33,3 +33,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Exuberant Tags
+tags
+
+# SQLite DB
+*.db
